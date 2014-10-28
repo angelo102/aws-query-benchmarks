@@ -1,6 +1,6 @@
 '''
 Name: Angel Romero 10001044475
-	  Md Merajul Islam 1000865420
+	 
 Course Number: CSE 6331 Cloud Computing
 Lab: Assignment 3 Part 1
  
